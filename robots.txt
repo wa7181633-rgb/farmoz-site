@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wa7181633-rgb.github.io/farmoz-site/sitemap.xml
