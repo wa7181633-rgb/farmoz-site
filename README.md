@@ -3,11 +3,11 @@
 The production site for **Farmoz — Web & AI Systems**: a one-page sales site for a web development and AI automation studio. Fixed price, fixed timeline, no build step.
 
 <p align="left">
+  <a href="https://wa7181633-rgb.github.io/farmoz-site/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Open-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JS" src="https://img.shields.io/badge/JS-vanilla-F7DF1E?style=flat-square&logo=javascript&logoColor=06080f" />
   <img alt="Dependencies" src="https://img.shields.io/badge/dependencies-0-34d399?style=flat-square" />
-  <img alt="Live" src="https://img.shields.io/badge/live-github%20pages-22d3ee?style=flat-square&logo=githubpages&logoColor=white" />
 </p>
 
 **Live:** https://wa7181633-rgb.github.io/farmoz-site/
@@ -89,11 +89,17 @@ Update the canonical URL, `og:url` and `og:image` in `index.html` to your own do
 
 ## Audit your own site
 
-This repo ships with the [site-audit](https://github.com/wa7181633-rgb/site-audit) CLI:
+Pair this with the free [site-audit](https://github.com/wa7181633-rgb/site-audit) CLI:
 
 ```bash
 node ../site-audit/audit.mjs yourdomain.com
 ```
+
+## Need a custom site?
+
+This is the exact style of work I deliver for clients — fixed price, fixed timeline.
+
+→ Message me on [WhatsApp](https://wa.me/923122581354) or email farmoz98@gmail.com
 
 ## License
 
