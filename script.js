@@ -13,7 +13,7 @@
       tagline: "Web & AI Systems",
       email: "farmoz98@gmail.com",
       whatsapp: "923122581354",
-      github: "Farmoz",
+      github: "wa7181633-rgb",
       website: "",
     },
     window.FARMOZ_CONFIG || {}
