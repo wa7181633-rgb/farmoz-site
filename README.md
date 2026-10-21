@@ -10,7 +10,7 @@ The production site for **Farmoz — Web & AI Systems**: a one-page sales site f
   <img alt="Live" src="https://img.shields.io/badge/live-github%20pages-22d3ee?style=flat-square&logo=githubpages&logoColor=white" />
 </p>
 
-**Live:** https://farmoz.github.io/farmoz-site/
+**Live:** https://wa7181633-rgb.github.io/farmoz-site/
 
 ---
 
@@ -89,7 +89,7 @@ Update the canonical URL, `og:url` and `og:image` in `index.html` to your own do
 
 ## Audit your own site
 
-This repo ships with the [site-audit](https://github.com/farmoz/site-audit) CLI:
+This repo ships with the [site-audit](https://github.com/wa7181633-rgb/site-audit) CLI:
 
 ```bash
 node ../site-audit/audit.mjs yourdomain.com
