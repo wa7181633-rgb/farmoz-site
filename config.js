@@ -18,7 +18,7 @@ window.FARMOZ_CONFIG = {
   whatsapp: "923122581354",
 
   // ── GitHub username ──
-  github: "Farmoz",
+  github: "wa7181633-rgb",
 
   // ── Yeh optional: agar aap ka domain ho to yahan likhein, warna khali chhorein ──
   website: "",
