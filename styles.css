@@ -325,6 +325,15 @@ h1 em {
 /* ── hero mock browser ───────────────────────── */
 .hero-visual { position: relative; }
 
+.mock-caption {
+  margin: 0 0 10px;
+  font-size: 12px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--muted-2);
+  opacity: 0.75;
+}
+
 .mock {
   border-radius: var(--radius);
   border: 1px solid var(--line-strong);
